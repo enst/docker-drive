@@ -1,4 +1,4 @@
-FROM debian
+FROM ubuntu
 
 WORKDIR /usr/src/go
 ENV GOPATH /usr/src/go
